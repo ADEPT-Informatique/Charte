@@ -1,7 +1,7 @@
 ![Logo_ADEPT_Informatique](https://github.com/ADEPT-Informatique/Charte/blob/master/Logo_ADEPT.png)
  
 # Table des matières
-**[Statuts de l'Association](#statuts-de-l'association)**  
+**[Statuts de l'Association](#Statuts-de-l'Association)**  
 **[Chapitre 1 : Disposition préliminaire](#disposition-preliminaire)**  
 **[Chapitre 2 : Membres](#membres)**  
 **[Chapitre 3 : Assemblée générale](#assemble-generale)**  
