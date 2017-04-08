@@ -8,7 +8,7 @@
 **[Chapitre 4 : Conseil d'Administration](#chapitre4)**  
 **[Chapitre 5 : Délégué(e)](#chapitre5)**  
 **[Chapitre 6 : Règlements](#chapitre6)**  
-**[Chapitre 7 : Organisation du ménage](#chapitre6)**  
+**[Chapitre 7 : Organisation du ménage](#chapitre7)**  
 &nbsp;
 &nbsp;
 
