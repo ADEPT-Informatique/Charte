@@ -1,14 +1,14 @@
 ![Logo_ADEPT_Informatique](https://github.com/ADEPT-Informatique/Charte/blob/master/Logo_ADEPT.png)
  
 # Table des matières
-**[Statuts de l'Association](#Statuts-de-l'Association)**  
-**[Chapitre 1 : Disposition préliminaire](#disposition-preliminaire)**  
-**[Chapitre 2 : Membres](#membres)**  
-**[Chapitre 3 : Assemblée générale](#assemble-generale)**  
-**[Chapitre 4 : Conseil d'Administration](#conseil-administration)**  
-**[Chapitre 5 : Délégué(e)](#deleguee)**  
-**[Chapitre 6 : Règlements](#reglements)**  
-**[Chapitre 7 : Organisation du ménage](#organisation-menage)**  
+**[Statuts de l'Association](#statuts-de-lassociation)**  
+**[Chapitre 1 : Disposition préliminaire](#chapitre1)**  
+**[Chapitre 2 : Membres](#chapitre2)**  
+**[Chapitre 3 : Assemblée générale](#chapitre3)**  
+**[Chapitre 4 : Conseil d'Administration](#chapitre4)**  
+**[Chapitre 5 : Délégué(e)](#chapitre5)**  
+**[Chapitre 6 : Règlements](#chapitre6)**  
+**[Chapitre 7 : Organisation du ménage](#chapitre7)**  
 &nbsp;
 &nbsp;
 
@@ -23,7 +23,7 @@
 &nbsp;
 &nbsp;
  
-# Chapitre 1 : Disposition préliminaire 
+# <a id="chapitre1"></a>Chapitre 1 : Disposition préliminaire 
 ## 1.	Définition :  
 1.  « Assemblée » désigne l’assemblée générale des membres de l’ADEPT Informatique.
 2.	 « ADEPT » désigne l’association de programme qui est régie par cette charte.
@@ -54,7 +54,7 @@
 &nbsp;
 &nbsp;
  
-# Chapitre 2 : Membres
+# <a id="chapitre2"></a>Chapitre 2 : Membres
 ## 1.  Étudiants membre
 Est membre de l’ADEPT Informatique tout étudiant inscrit au programme Technique Informatique du Collège Édouard-Montpetit.
 ## 2. Droit des membres
@@ -71,7 +71,7 @@ L’ADEPT Informatique peut accorder le statut de membre honoraire à des person
 &nbsp;
 &nbsp;
  
-# Chapitre 3 : Instance
+# <a id="chapitre3"></a>Chapitre 3 : Instance
 ## 1. Généralités
 L’Assemblé est l’instance suprême de l’ADEPT Informatique. Ses résolutions sont sans appel.
 ## 2. Assemblée générale ordinaire biannuelle
@@ -92,7 +92,7 @@ Un minimum de 5% des membres (étudiant en informatique) doivent être présent 
 &nbsp;
 &nbsp;
  
-# Chapitre 4 : Conseil d’Administration
+# <a id="chapitre4"></a>Chapitre 4 : Conseil d’Administration
 ## 1.	Généralité
 Le Conseil d’Administration est chargé d’administrer les affaires courantes de l’ADEPT Informatique.
 ## 2.	Nombre d’officiers
@@ -116,7 +116,7 @@ Les membres du Conseil d’Administration sont les seuls membres pouvant posséd
 &nbsp;
 &nbsp;
  
-# Chapitre 5 : Délégué(e)
+# <a id="chapitre5"></a>Chapitre 5 : Délégué(e)
 ## 1.	Mode d’élection au Conseil étudiant
 Les délégué(e) sont choisis par le Conseil d’Administration parmi les membres du Conseil d’administration en début de session. Deux délégué(e)s seront choisis par le Conseil d’administration pour siéger au Conseil étudiants.
 ## 2.	Démission
@@ -124,7 +124,7 @@ Si le délégué(e) ne peut plus se présenter aux réunions, il doit émettre u
 &nbsp;
 &nbsp;
  
-# Chapitre 6 : Règlements
+# <a id="chapitre6"></a>Chapitre 6 : Règlements
 ## 1.	Chaque membre de l’ADEPT Informatique ainsi que les visiteurs acceptent la présente charte au moment même où ils entrent dans le local de l’Association.
 ## 2.	Chaque membre et chaque visiteur doivent respecter ses pairs de l’Association et nous entendons par respect, aucun geste physique ou parole ne risquant de blesser l’un de nos membres
 ## 3.	L’ordinateur est destiné en priorité à un usage académique.
@@ -140,7 +140,7 @@ Si le délégué(e) ne peut plus se présenter aux réunions, il doit émettre u
 &nbsp;
 &nbsp;
  
-# Chapitre 7 : Organisation du ménage
+# <a id="chapitre7"></a>Chapitre 7 : Organisation du ménage
 ## 1.	Fonctionnement
   1. Tous les membres de l’ADEPT Informatique sont liés par contrat à la présente charte, par conséquent ils doivent s’impliquer.
   2. Chaque membre doit faire le ménage de ses propres déchets
