@@ -103,7 +103,9 @@ Le Conseil d’Administration compte au maximum cinq administrateurs.
 | Vice-président 	| Appuie le président dans son mandat. Agit en tant que président en absence du Président.Agit en tant que mobilisateur lors des instances nécessitant le quorum.S’assure que les membres respectent les règles de l’Association de programme et s’occupe de faire appliquer les sanctions.S’assurer que chaque tâche des administrateurs soit dûment rempli. 	|
 | Secrétaire 	| Responsable des assemblées. Tient à jour les livre. A la garde des archives et les renseignements de l’ADEPT Informatique. 	|
 | Trésorerie 	| Tient à jour les livres de comptabilité. Prépare les bilans et les budgets à présenter à l’AGECEM.Présente les demandes de subventions. 	|
-| Externe 	| Participe en tant que représentant au comité de programme.S’occupe de garder le contact avec les autres organismes. Participe aux conseils étudiant. 	|
+| Externe 	| Participe en tant que représentant au comité de programme.S’occupe de garder le contact avec les autres organismes. Participe aux conseils étudiant. 	
+| Responsable de la conciergerie [Optionnel] | S'assure que l'ADEPT est propre, que les poubelles sont vidés et qu'il n'y a rien qui traîne. Si ce poste n'est pas comblé, le secrétaire est le responsable de la conciergerie.
+| Responsable du meme [Optionnel] | Shitpost sur la page facebook de l'ADEPT. S'assure que les memes sont de la qualité maxmimale, un meme stale pourrait congédier le responsable du meme. Si ce poste n'est pas comblé, le président est le responsable du meme.
 
 ## 3. Durée du mandat
 La durée du mandat d’un officier est d’une session. Il débute au début de la session qui suit l’Assemblée général ordinaire d’élection de la session en cours et se termine à la fin de la session suivant l’Assemble générale ordinaire d’élection.
