@@ -1,15 +1,15 @@
 ![Logo_ADEPT_Informatique](https://github.com/ADEPT-Informatique/Charte/blob/master/badge.svg)
  
 # Table des matières
-**[Statuts de l'Association](#statuts-de-lassociation)**  
-**[Chapitre 1 : Disposition préliminaire](#chapitre1)**  
-**[Chapitre 2 : Membres](#chapitre2)**  
-**[Chapitre 3 : Assemblée générale](#chapitre3)**  
-**[Chapitre 4 : Conseil d'Administration](#chapitre4)**  
-**[Chapitre 5 : Délégué(e)](#chapitre5)**  
-**[Chapitre 6 : Règlements](#chapitre6)**  
-**[Chapitre 7 : Organisation du ménage](#chapitre7)**  
-**[Chapitre 8 : Comité officiel du LAN](#chapitre8)**
+**[Statuts de l'Association](#statuts-de-lassociation)**<br>
+**[Chapitre 1 : Disposition préliminaire](#chapitre1)**<br>
+**[Chapitre 2 : Membres](#chapitre2)**<br>
+**[Chapitre 3 : Assemblée générale](#chapitre3)**<br>
+**[Chapitre 4 : Conseil d'Administration](#chapitre4)**<br>
+**[Chapitre 5 : Délégué(e)](#chapitre5)**<br> 
+**[Chapitre 6 : Règlements](#chapitre6)**<br> 
+**[Chapitre 7 : Organisation du ménage](#chapitre7)**<br>
+**[Chapitre 8 : Comité officiel du LAN](#chapitre8)**<br>
 **[Chapitre 9 : Présence en ligne](#chapitre9)**
 &nbsp;
 &nbsp;
