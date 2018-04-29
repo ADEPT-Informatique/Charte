@@ -222,8 +222,6 @@ Le comité officiel du LAN est un comité formé de membres volontaires qui s'en
 
 L'objectif de ce comité est d'alléger la charge de travail des administrateurs par rapport à l'organisation du LAN bisannuel. Il permet aussi d'officialiser les équipes dès le début de session et donc de commencer l’organisation de l'événement le plus tôt possible.
 
-#### Rôles
-
 | Rôle | Description |
 |---|---|
 | Gestionnaire de LAN | Chef du comité, il coordonne, avec le CA, les préparatifs du LAN et veille au bon déroulement de l'organisation au sein des différentes équipes.  Bien qu'il n'ait pas le droit de vote, il participe aux rencontres du conseil d'administration et fait des propositions aux administrateurs sur les points en rapport au LAN.  |
@@ -231,7 +229,7 @@ L'objectif de ce comité est d'alléger la charge de travail des administrateurs
 | Délégué au matériel et aux locaux | Il est le responsable de l'installation du matériel et des locaux à l'exception de ce qui a trait au réseau. Il assure donc la location et le retour d'équipement ainsi que la réservation de locaux et d'air climatisé pour l'événement. Il supervise l'installation du matériel le jour du LAN (table, électricité, vérifie l'air climatisé, etc. ) et le rangement du matériel le lendemain. Finalement, le délégué, s'occupe de *l'équipe d'installation du LAN* qui l'assiste dans ses tâches et l'aide à l'installation et au rangement du matériel.  |
 | Responsable des tournois | Il est responsable de *l'équipe des administrateurs de tournois* et de promouvoir la participation aux tournois organisés. Il doit donc recruter des membres pour administrer des tournois, superviser l'organisation des différents tournois et faire la promotion des tournois auprès des membres inscrits au LAN. |
 
-#### Élection des membres du comité
+### Élection des membres du comité
 Le **Gestionnaire de LAN** est le seul membre du comité élu par l'Assemblée générale. Il est élu en même temps que les membres du Conseil d'Administration.
 
 Par la suite c'est le **Gestionnaire de LAN** et le Conseil d'Administration qui choisissent ensemble le **Responsable réseau**, le **Délégué au matériel et aux locaux** et le **Responsable des tournois** parmi les volontaires au début de chaque session.  
