@@ -179,7 +179,7 @@ Le ou les membres concernés doivent entendre la raison de leurs destitution et 
 
 ## RAPPEL: Les règlements de l’AGECEM sont prioritaires sur ceux du présent document. Quelques exceptions sont possibles prenant compte que nous sommes une association de programme informatique.
 
-## RAPPEL 2 : Toute personne qui s’exprime dans le local de l’ADEPT ou dans un groupe de discussion public lié à l’association, ainsi que toute personne arborant un article qui l’identifie à l’ADEPT Informatique se doit de s’abstenir de tout propos homophobe, sexiste ou de nature discriminatoire. Dans l’éventualité où un membre enfreindrait ce règlement, ce dernier seras automatiquement sanctionné, et ce, de manière temporaire ou permanente selon le jugement des membres du conseil d’administration.
+## RAPPEL 2 : Toute personne qui s’exprime dans le local de l’ADEPT ou dans un groupe de discussion public lié à l’association, ainsi que toute personne arborant un article qui l’identifie à l’ADEPT Informatique se doit de s’abstenir de tout propos homophobe, sexiste ou de nature discriminatoire. Dans l’éventualité où un membre enfreindrait ce règlement, ce dernier seras automatiquement suspendu de l'ADEPT, et ce, de manière temporaire ou permanente selon le jugement des membres du conseil d’administration.
 
 ## 1.	Chaque membre de l’ADEPT Informatique ainsi que les visiteurs acceptent la présente charte au moment même où ils entrent dans le local de l’Association ou à l'achat d'un bien les faisant représenter cette dernière.
 
