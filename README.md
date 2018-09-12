@@ -1,4 +1,4 @@
-![Logo_ADEPT_Informatique](https://raw.githubusercontent.com/ADEPT-Informatique/Charte/master/badge.svg)
+![Logo_ADEPT_Informatique](badge.svg)
  
 # Table des matières
 **[Statuts de l'Association](#statuts-de-lassociation)**<br>
