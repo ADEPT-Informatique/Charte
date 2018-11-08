@@ -183,32 +183,33 @@ Le ou les membres concernés doivent entendre la raison de leurs destitution et 
 
 ## 1.	Chaque membre de l’ADEPT Informatique ainsi que les visiteurs acceptent la présente charte au moment même où ils entrent dans le local de l’Association ou à l'achat d'un bien les faisant représenter cette dernière.
 
-## 2.	Chaque membre et chaque visiteur doivent respecter ses pairs de l’Association et nous entendons par respect, aucun geste physique ou parole ne risquant de blesser l’un de nos membres
+## 2.	Chaque membre et chaque visiteur doivent respecter ses pairs de l’Association et nous entendons par respect, aucun geste physique ou parole ne risquant de blesser l’un de nos membres.
 
 ## 3.	L’ordinateur et l'accès à internet sont destinés en priorité à un usage académique, principalement aux travaux d'équipes afin de ne pas déranger les locaux.
 
 > **3.1** Un usage déplacé, nuisant ou déplaisant pour tout utilisateur des ordinateurs ou de l’accès à internet peut mener à une interdiction d’utiliser ceux-ci à l’ADEPT Informatique.
 
-
 ## 4.	Il est la responsabilité de chacun de veiller à la propreté du local. Une personne qui nuit à la propreté du local se verra sanctionnée.
-
 
 ## 5.	Il est interdit de sortir un accessoire appartenant à l’ADEPT Informatique sans le consentement du Conseil d’Administration.
 
-## 6.	En cas de bris de matériel ayant une valeur de moins de 25$, le responsable du bris est tenu de remplacer ou de payer la valeur de ce dernier, sous peine de suspension. Dans le cas où la valeur du bien brisé est supérieure à 25$ et que le bris est volontaire, la suspension est automatique et un dédommagement est attendu de la part du responsable. Dans le cas de non-paiement, des poursuites judiciaires pourront s’en suivre.
+## 6. L'ADEPT est l'association du programme de technique Informatique, ce n'est pas une assotiation de jeux vidéos. Son local n'est donc pas une place pour jouer aux jeux vidéos, il est donc interdit de l'utiliser afin d'y jouer à des jeux vidéos. Super Smash Bros, étant un classique de l'Asso, sera permis aux membres de l'ADEPT qui ne viennent pas au local que pour cela. Pour ceux qui désirent jouer à des jeux vidéos nous vous invitons à visiter nos chers amis de l'ogre.
 
-## 7.	Endommager le mobilier peut-être passible de suspension et de dédommagement monétaire.
+## 7.	En cas de bris de matériel ayant une valeur de moins de 25$ , le responsable du bris est tenu de remplacer ou de payer la valeur de ce dernier, sous peine de suspension. Dans le cas où la valeur du bien brisé est supérieure à 25$ et que le bris est volontaire, la suspension est automatique et un dédommagement est attendu de la part du responsable. Dans le cas de non-paiement, des poursuites judiciaires pourront s’en suivre.
 
-## 8.	L’ADEPT Informatique n’est pas responsable des bris ou des vols d’objet personnel, sauf sur la demande de contrat de garantie écrit avec le CA, avec l’accord de 50%+1 des membres du CA.
+## 8.	Endommager le mobilier peut-être passible de suspension et de dédommagement monétaire.
 
-## 9.	Tout vol de matériel est jugé comme une suspension automatique et des poursuites judiciaires peuvent s’en suivre.
+## 9.	L’ADEPT Informatique n’est pas responsable des bris ou des vols d’objet personnel, sauf sur la demande de contrat de garantie écrit avec le CA, avec l’accord de 50%+1 des membres du CA.
 
-## 10.	Le non-respect des présents règlements peut résulter d’une expulsion temporaire ou définitive du local de l’Association.
+## 10.	Tout vol de matériel est jugé comme une suspension automatique et des poursuites judiciaires peuvent s’en suivre.
 
-## 11.	Le local de l’ADEPT Informatique est restreint à ses membres, aux personnes voulant bénéficier de ses services (autofinancement ou soutient technique), aux membres du conseil d’administration des autres organismes étudiants de l’AGECEM et au bureau exécutif de l’AGECEM.  
+## 11.	Le non-respect des présents règlements peut résulter d’une expulsion temporaire ou définitive du local de l’Association.
+
+## 12.	Le local de l’ADEPT Informatique est restreint à ses membres, aux personnes voulant bénéficier de ses services (autofinancement ou soutient technique), aux membres du conseil d’administration des autres organismes étudiants de l’AGECEM et au bureau exécutif de l’AGECEM.  
 &nbsp;
 &nbsp;
- 
+
+
 # <a id="chapitre7"></a>Chapitre 7 : Organisation du ménage
 
 ## 1.	Fonctionnement
@@ -226,15 +227,15 @@ L'objectif de ce comité est d'alléger la charge de travail des administrateurs
 |---|---|
 | Gestionnaire de LAN | Chef du comité, il coordonne, avec le CA, les préparatifs du LAN et veille au bon déroulement de l'organisation au sein des différentes équipes.  Bien qu'il n'ait pas le droit de vote, il participe aux rencontres du conseil d'administration et fait des propositions aux administrateurs sur les points en rapport au LAN.  |
 | Responsable réseau | Il est le chef de *l'équipe réseau*. Il supervise et coordonne avec le gestionnaire de LAN les tâches liées à la préparation de l'infrastructure réseau du LAN. C'est aussi lui qui doit assurer un suivi avec la DISTi pour les points relatifs à la connexion internet du LAN.  |
-| Délégué au matériel et aux locaux | Il est le responsable de l'installation du matériel et des locaux à l'exception de ce qui a trait au réseau. Il assure donc la location et le retour d'équipement ainsi que la réservation de locaux et d'air climatisé pour l'événement. Il supervise l'installation du matériel le jour du LAN (table, électricité, vérifie l'air climatisé, etc. ) et le rangement du matériel le lendemain. Finalement, le délégué, s'occupe de *l'équipe d'installation du LAN* qui l'assiste dans ses tâches et l'aide à l'installation et au rangement du matériel.  |
+| Délégué au relations publiques| Il est en charge de faire la mobilisation sur les platformes enlignes afin d'informer les personnes du LAN. Il travail tres près du Gestionnaire du LAN qui peut l'informer de comment certaines parties du LAN vont fonctionner.|
 | Responsable des tournois | Il est responsable de *l'équipe des administrateurs de tournois* et de promouvoir la participation aux tournois organisés. Il doit donc recruter des membres pour administrer des tournois, superviser l'organisation des différents tournois et faire la promotion des tournois auprès des membres inscrits au LAN. |
 
 ### Élection des membres du comité
 Le **Gestionnaire de LAN** est le seul membre du comité élu par l'Assemblée générale. Il est élu en même temps que les membres du Conseil d'Administration.
 
-Par la suite c'est le **Gestionnaire de LAN** et le Conseil d'Administration qui choisissent ensemble le **Responsable réseau**, le **Délégué au matériel et aux locaux** et le **Responsable des tournois** parmi les volontaires au début de chaque session.  
+Par la suite c'est le **Gestionnaire de LAN** et le Conseil d'Administration qui choisissent ensemble le **Responsable réseau**, le **Délégué au relations publiques** et le **Responsable des tournois** parmi les volontaires au début de chaque session.  
 
-Enfin chacun des membres élus pourra composer leur propre équipe selon leur bon vouloir. Le **Responsable réseau** nomme donc les membres de *l'équipe réseau*, le **Responsable des tournois** établi *l'équipe d'administrateurs de tournois* et le **Délégué au matériel et aux locaux** nomme *l'équipe d'installation du LAN*, toujours parmi les membres volontaires.
+Enfin chacun des membres élus pourra composer leur propre équipe selon leur bon vouloir. Le **Responsable réseau** nomme donc les membres de *l'équipe réseau* et le **Responsable des tournois** établi *l'équipe d'administrateurs de tournois*. Le **Délégué au relations publiques** peut recruter un équipe qui s'occupera de faire la publicité du LAN.
 
 **En se présentant comme volontaire, tous les membres du comité s’engagent à se présenter et à participer activement à l'installation et au rangement du matériel durant le LAN avec *l'équipe d'installation***.
 
