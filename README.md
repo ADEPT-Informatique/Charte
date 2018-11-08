@@ -193,19 +193,21 @@ Le ou les membres concernés doivent entendre la raison de leurs destitution et 
 
 ## 5.	Il est interdit de sortir un accessoire appartenant à l’ADEPT Informatique sans le consentement du Conseil d’Administration.
 
-## 6. L'ADEPT est l'association du programme de technique Informatique, ce n'est pas une assotiation de jeux vidéos. Son local n'est donc pas une place pour jouer aux jeux vidéos, il est donc interdit de l'utiliser afin d'y jouer à des jeux vidéos. Super Smash Bros, étant un classique de l'Asso, sera permis aux membres de l'ADEPT qui ne viennent pas au local que pour cela. Pour ceux qui désirent jouer à des jeux vidéos nous vous invitons à visiter nos chers amis de l'ogre.
+## 6. Afin de garder le local organisé et sécuritaire, il y aura une liste de règlements rédigée par un ou plusieurs des membres du CA qui devra être respecté par toutes les personnes présentes dans le local.
 
-## 7.	En cas de bris de matériel ayant une valeur de moins de 25$ , le responsable du bris est tenu de remplacer ou de payer la valeur de ce dernier, sous peine de suspension. Dans le cas où la valeur du bien brisé est supérieure à 25$ et que le bris est volontaire, la suspension est automatique et un dédommagement est attendu de la part du responsable. Dans le cas de non-paiement, des poursuites judiciaires pourront s’en suivre.
+## 7. L'ADEPT est l'association du programme de technique Informatique, ce n'est pas une assotiation de jeux vidéos. Son local n'est donc pas une place pour jouer aux jeux vidéos, il est donc interdit de l'utiliser afin d'y jouer à des jeux vidéos. Super Smash Bros, étant un classique de l'Asso, sera permis aux membres de l'ADEPT qui ne viennent pas au local que pour cela. Pour ceux qui désirent jouer à des jeux vidéos nous vous invitons à visiter nos chers amis de l'ogre.
 
-## 8.	Endommager le mobilier peut-être passible de suspension et de dédommagement monétaire.
+## 8.	En cas de bris de matériel ayant une valeur de moins de 25$ , le responsable du bris est tenu de remplacer ou de payer la valeur de ce dernier, sous peine de suspension. Dans le cas où la valeur du bien brisé est supérieure à 25$ et que le bris est volontaire, la suspension est automatique et un dédommagement est attendu de la part du responsable. Dans le cas de non-paiement, des poursuites judiciaires pourront s’en suivre.
 
-## 9.	L’ADEPT Informatique n’est pas responsable des bris ou des vols d’objet personnel, sauf sur la demande de contrat de garantie écrit avec le CA, avec l’accord de 50%+1 des membres du CA.
+## 9.	Endommager le mobilier peut-être passible de suspension et de dédommagement monétaire.
 
-## 10.	Tout vol de matériel est jugé comme une suspension automatique et des poursuites judiciaires peuvent s’en suivre.
+## 10.	L’ADEPT Informatique n’est pas responsable des bris ou des vols d’objet personnel, sauf sur la demande de contrat de garantie écrit avec le CA, avec l’accord de 50%+1 des membres du CA.
 
-## 11.	Le non-respect des présents règlements peut résulter d’une expulsion temporaire ou définitive du local de l’Association.
+## 11.	Tout vol de matériel est jugé comme une suspension automatique et des poursuites judiciaires peuvent s’en suivre.
 
-## 12.	Le local de l’ADEPT Informatique est restreint à ses membres, aux personnes voulant bénéficier de ses services (autofinancement ou soutient technique), aux membres du conseil d’administration des autres organismes étudiants de l’AGECEM et au bureau exécutif de l’AGECEM.  
+## 12.	Le non-respect des présents règlements peut résulter d’une expulsion temporaire ou définitive du local de l’Association.
+
+## 13.	Le local de l’ADEPT Informatique est restreint à ses membres, aux personnes voulant bénéficier de ses services (autofinancement ou soutient technique), aux membres du conseil d’administration des autres organismes étudiants de l’AGECEM et au bureau exécutif de l’AGECEM.  
 &nbsp;
 &nbsp;
 
@@ -227,7 +229,7 @@ L'objectif de ce comité est d'alléger la charge de travail des administrateurs
 |---|---|
 | Gestionnaire de LAN | Chef du comité, il coordonne, avec le CA, les préparatifs du LAN et veille au bon déroulement de l'organisation au sein des différentes équipes.  Bien qu'il n'ait pas le droit de vote, il participe aux rencontres du conseil d'administration et fait des propositions aux administrateurs sur les points en rapport au LAN.  |
 | Responsable réseau | Il est le chef de *l'équipe réseau*. Il supervise et coordonne avec le gestionnaire de LAN les tâches liées à la préparation de l'infrastructure réseau du LAN. C'est aussi lui qui doit assurer un suivi avec la DISTi pour les points relatifs à la connexion internet du LAN.  |
-| Délégué au relations publiques| Il est en charge de faire la mobilisation sur les platformes enlignes afin d'informer les personnes du LAN. Il travail tres près du Gestionnaire du LAN qui peut l'informer de comment certaines parties du LAN vont fonctionner.|
+| Délégué aux relations publiques| Il est en charge de faire la mobilisation sur les platformes enlignes afin d'informer les personnes du LAN. Il travail tres près du Gestionnaire du LAN qui peut l'informer de comment certaines parties du LAN vont fonctionner.|
 | Responsable des tournois | Il est responsable de *l'équipe des administrateurs de tournois* et de promouvoir la participation aux tournois organisés. Il doit donc recruter des membres pour administrer des tournois, superviser l'organisation des différents tournois et faire la promotion des tournois auprès des membres inscrits au LAN. |
 
 ### Élection des membres du comité
