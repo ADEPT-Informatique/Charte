@@ -38,7 +38,7 @@
     1. « Administrateurs-trices » désigne les membres du conseil d’administration de l’ADEPT Informatique.
     2. « Comité de programme » désigne le comité de programme du département d’informatique du Cégep.  
     3.	« Délégué(e) » désigne toute personne désignée par l’ADEPT Informatique pour la représenter auprès du Cégep, de l’AGECEM ou des comités de programmes.
-9. Un « Membre de Confiance » désigne un membre élu par le CA qui a un accès privilégié au local F-041 et qui en assure la supervision lorsqu’aucun membre du CA n’est présent. Seuls ces membres peuvent avoir accès à la clé flottante de l’ADEPT Informatique.
+9. Un « Membre de Confiance » désigne un membre élu par le CA qui a un accès privilégié au local F-045 et qui en assure la supervision lorsqu’aucun membre du CA n’est présent. Seuls ces membres peuvent avoir accès à la clé flottante de l’ADEPT Informatique.
 
 ## 2.	Désignation :  
 Le présent règlement est désigné sous le nom « Charte de l’ADEPT Informatique ».
@@ -47,7 +47,7 @@ Le présent règlement est désigné sous le nom « Charte de l’ADEPT Informat
 ADEPT Informatique (Association Des Étudiants et Étudiantes du Programme de Technique) Informatique
 
 ## 4.	Siège social
-Le siège social de l’ADEPT Informatique est le local F-041.
+Le siège social de l’ADEPT Informatique est le local F-045.
 
 ## 5.	Livres
 L’ADEPT Informatique choisit un ou plusieurs livres dans lesquels figurent les documents suivants :
